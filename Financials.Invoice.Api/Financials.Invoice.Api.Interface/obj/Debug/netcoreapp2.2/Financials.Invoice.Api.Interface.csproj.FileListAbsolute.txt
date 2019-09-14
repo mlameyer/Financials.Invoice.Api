@@ -1,9 +1,0 @@
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.deps.json
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.dll
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.pdb
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.csprojAssemblyReference.cache
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.csproj.CoreCompileInputs.cache
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.AssemblyInfoInputs.cache
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.AssemblyInfo.cs
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.dll
-C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api.Interface\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.Interface.pdb
