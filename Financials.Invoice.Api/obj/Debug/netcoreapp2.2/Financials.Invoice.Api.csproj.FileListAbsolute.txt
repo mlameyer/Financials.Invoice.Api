@@ -1,0 +1,13 @@
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.deps.json
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.runtimeconfig.json
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.runtimeconfig.dev.json
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.dll
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\bin\Debug\netcoreapp2.2\Financials.Invoice.Api.pdb
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.csproj.CoreCompileInputs.cache
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.RazorAssemblyInfo.cache
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.RazorAssemblyInfo.cs
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.AssemblyInfoInputs.cache
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.AssemblyInfo.cs
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.RazorTargetAssemblyInfo.cache
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.dll
+C:\Repositories\Financials.Invoice.Api\Financials.Invoice.Api\obj\Debug\netcoreapp2.2\Financials.Invoice.Api.pdb
